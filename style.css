@@ -15,7 +15,7 @@
 .färg{
     background-color: grey;
     width: 100%;
-    height: 100vh;
+    height: 115vh;
 }
 .navbar{
     width: 20%;
@@ -27,7 +27,7 @@
 .navbar ul li{
     list-style: none;
     display: inline-table;
-    margin: 0 20px;
+    margin: 0 10px;
     position: relative;
 }
 .navbar ul li a{
@@ -44,28 +44,35 @@ color: black;
 
 }
 img{
-    margin-left: 60%;
+    margin-left: 80%;
     width: 220px;
 }
 .fråga{
     width: 100%;
     position: absolute;
-    top: 50%;
+    top: 60%;
     transform: translateY(-50%);
     text-align: center;
     color: black; 
 }
+
 .fråga h1{
-    font-size: 70px;
+    font-size: 40px;
     margin-top: 80px;
     border: solid black;
     border-style: double;
 }
-.fråga li{
-    font-size: 20px;
+.fråga li {
+    font-size:17px;
     font-weight: bold;
-    margin: 10px;
+    margin: 2px;
     color: black; 
+}
+
+.blommor{
+    width: 500px;
+    height: 310px;
+    float: right;
 }
 
 
