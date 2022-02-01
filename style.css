@@ -56,6 +56,9 @@ img{
     border: solid black;
     border-style: double;
 }
+#idnamn{
+color: purple;
+}
 .fråga li {
     font-size:17px;
     font-weight: bold;
